@@ -13,7 +13,6 @@ I'm an Artificial Intelligence undergraduate with hands-on experience in IT Supp
 I enjoy building AI solutions, automating repetitive tasks, and solving real-world technical problems. I'm continuously learning new technologies and looking for opportunities in AI, IT Support, Data Analysis, and Software Development.
 
 ---
-
 ## 🛠️ Technical Skills
 
 ### Programming
